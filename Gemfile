@@ -51,6 +51,7 @@ group :development do
 end
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+gem "font-awesome-rails"
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
